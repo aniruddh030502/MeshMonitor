@@ -1,16 +1,12 @@
-# demo
+# ControlHub
 
-A new Flutter project.
+ControlHub is a mobile application that serves as a central control hub for managing and monitoring various smart home devices. With ControlHub, you can conveniently control and automate your lights, fans, thermostats, and more, all from the convenience of your smartphone.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Control and monitor lights, fans, thermostats, and other smart home devices.
+- Easily toggle power on/off for lights and fans.
+- Adjust brightness settings for lights.
+- Control fan speed settings.
+- Adjust thermostat temperature settings.
+- Customizable automation and scheduling options.
